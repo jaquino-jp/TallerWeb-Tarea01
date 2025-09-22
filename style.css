@@ -25,7 +25,7 @@ body {
 .container {
     position: relative;
     top: -100px;
-    width: 350px;
+    width: 400px;
     height: 600px;
     border-radius: 20px;
     padding: 40px;
@@ -152,7 +152,7 @@ h1 {
 
 .links {
     text-align: center;
-    margin-top: 70px;
+    margin-top: 20px;
 }
 
 .links p {
@@ -170,9 +170,7 @@ h1 {
     background: none;
 }
 
-.links p:last-child {
-    white-space: nowrap;
-}
+
 
 .register-link {
     text-align: center;
